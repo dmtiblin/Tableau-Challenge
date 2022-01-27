@@ -1,20 +1,8 @@
 # Tableau Homework - Citi Bike Analytics
 
-Final Workbook:
+Final Tableau Workbook:
 
 https://public.tableau.com/app/profile/diane3563/viz/CitiBikesProject_16417057086980/CitiBikesStory
-
-### Before You Begin
-
-* This assignment will be saved to your Tableau Public account rather than GitHub. 
-
-* If you haven't already, be sure to create a Tableau Public account [here](https://public.tableau.com/s/).
-
-* The free tier of Tableau only lets you save to their public server. This means that each time you save your file it will be uploaded to your Tableau Public profile. 
-
-* You are able to load and continue working on the same workbook.
-
-* When you are finished with your assignment, you will turn in the URL to your Tableau Public workbook along with any additional files used for your analysis. 
 
 ## Background
 
@@ -32,37 +20,17 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 **Design 2-5 visualizations for each discovered phenomena (4-10 total). You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods.** 
 
-**The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
+**I chose to look at Citibikes data from a "pre"-COVID and "post"-COVID perspective. While the pandemic is far from over, many people do consider life to have slowly returned to normal throughout 2021 with the adven of the vaccines. I am specifically interested in how the pandemic may have influenced rider behavior and whether those behaviors are changing again in response to a waning pandemic. The following are the questions I investigated during this analysis**
 
-* How many trips have been recorded total during the chosen period?
+* How many trips have been recorded total during the chosen period? How does this # differ "pre" & "post"-COVID?
 
 * By what percentage has total ridership grown?
 
-* How has the proportion of short-term customers and annual subscribers changed?
-
-* What are the peak hours in which bikes are used during summer months?
-
-* What are the peak hours in which bikes are used during winter months?
-
-* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
-
-* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
-
-* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
-
-* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
-
-* Today, what is the gender breakdown of active participants (Male v. Female)?
-
-* How effective has gender outreach been in increasing female ridership over the timespan?
+* How has the proportion of short-term customers and annual subscribers changed from "pre" to "post"-COVID?
 
 * How does the average trip duration change by age?
 
 * What is the average distance in miles that a bike is ridden?
-
-* Which bikes (by ID) are most likely due for repair or inspection in the timespan?
-
-* How variable is the utilization by bike ID?
 
 **Next, as a chronic over-achiever:**
 
@@ -95,12 +63,6 @@ Your final submission should include:
   * 2 Dashboards
   * 1 City Official Map
   * 1 Story 
-* A text or markdown file with your analysis on the phenomenons you uncovered from the data.
-
-## Sharing Your Work
-In order to share your work, we are asking that you will save your workbook as a .twbx file so that your TA's can grade them.
-
-To save your workbook as a .twbx file, you will just need to select "Save As..." from the "File" dropdown. Then, select the .twbx option.
 
 ## Assessment
 
@@ -115,31 +77,14 @@ Your final product will be assessed on the following metrics:
 
 ## Hints
 
-* You may need to get creative in how you combine each of the CSV files. Don't just assume Tableau is the right tool for the job. At this point, you have a wealth of technical skills and research abilities. Dig for an approach that works and just go with it.
-
-* Don't just assume the CSV format hasn't changed since 2013. Subtle changes to the formats in any of your columns can blockade your analysis. Ensure your data is consistent and clean throughout your analysis. (Hint: Start and End Time change at some point in the history logs).
-
-* Consider building your visualizations with small extracts of the data (i.e. single files) before attempting to import the whole thing. What you will find is that importing all 20+ million records of data will create performance issues quickly. Welcome to "Big Data."
-
-* While utilizing all of the data may seem like a nice power play, consider the time-course in making your analysis. Is data from 2013 the most relevant for making bike replacement decisions today? Probably not. Don't let overwhelming data fool you. Ground your analysis in common sense.
-
 * Remember, data alone doesn't "answer" anything. You will need to accompany your data visualizations with clear and directed answers and analysis.
 
 * As is often the case, your clients are asking for a LOT of answers. Be considerate about their need-to-know and the importance of not "cramming in everything". Of course, answer each question, but do so in a way that is organized and presentable.
 
 * Since this is a project for the city, spend the appropriate time thinking through decisions on color schemes, fonts, and visual story-telling. The Citi Bike program has a clear visual footprint. As a suggestion, look for ways to have your data visualizations match their aesthetic tones.
 
-* Pay attention to labels. What exactly is "time duration"? What's the value of "age of birth"? You will almost certainly need calculated fields to get what you need.
-
-* Keep a close eye for obvious outliers or false data. Not everyone who signs up for the program is answering honestly.
-
 * In answering the question of "why" a phenomenon is occurring, consider adding other pieces of information on socioeconomic or other geographic data. Tableau has a map "layer" feature that you may find handy.
 
-* Don't be afraid to manipulate your data and play with settings in Tableau. Tableau is meant to be explored. We haven't covered all that you need -- so you will need to keep an eye out for new tricks.
-
-* Treat this as a serious endeavor! This is an opportunity to show future employers that you have what it takes to be a top-notch analyst. 
-
-* Good luck!
 
 ## Rubric
 
