@@ -1,6 +1,6 @@
 # Tableau Homework - Citi Bike Analytics
 
-Final Tableau Workbook:
+Please view my Tableau Public Workbook at the below link:
 
 https://public.tableau.com/app/profile/diane3563/viz/CitiBikesProject_16417057086980/CitiBikesStory
 
@@ -84,11 +84,6 @@ Your final product will be assessed on the following metrics:
 * Since this is a project for the city, spend the appropriate time thinking through decisions on color schemes, fonts, and visual story-telling. The Citi Bike program has a clear visual footprint. As a suggestion, look for ways to have your data visualizations match their aesthetic tones.
 
 * In answering the question of "why" a phenomenon is occurring, consider adding other pieces of information on socioeconomic or other geographic data. Tableau has a map "layer" feature that you may find handy.
-
-
-## Rubric
-
-[Unit 18 Rubric - Tableau Homework - Citi Bike Analytics](https://docs.google.com/document/d/11hlhJnKmEJgRYL3mUxRcdrz4AIxBU5PXW5fYrRYvgW8/edit?usp=sharing)
 
 - - -
 
